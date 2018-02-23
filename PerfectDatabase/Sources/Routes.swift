@@ -52,13 +52,7 @@ struct Router {
                 arrUser = objUser.rows()
                 var userDic = [[String: Any]]()
                 arrUser.forEach({ (user) in
-                    let dic = [
-                        "id": user.id,
-                        "name": user.name,
-                        "phone": user.phone,
-                        "email": user.email
-                    ] as [String: Any]
-                    userDic.append(dic)
+                    userDic.append(user.getJSONValues())
                 })
                 let jsonRes = ["users": userDic]
                 try res.setBody(json: jsonRes).completed()
@@ -68,7 +62,7 @@ struct Router {
             }
         }
         
-        routes.add(method: .post, uri: "upload") { (request, res) in
+        routes.add(method: .post, uri: "create/user") { (request, res) in
             // create uploads dir to store files
             let fileDir = Dir(Dir.workingDir.path + "files")
             do {
@@ -76,6 +70,7 @@ struct Router {
             } catch {
                 print(error)
             }
+            let userObj = User()
             
             // Grab the fileUploads array and see what's there
             // If this POST was not multi-part, then this array will be empty
@@ -95,8 +90,27 @@ struct Router {
                     let thisFile = File(upload.tmpFileName)
                     do {
                         let _ = try thisFile.moveTo(path: fileDir.path + upload.fileName, overWrite: true)
+                        let param = request.params()
+                        var paramDic = [String: Any]()
+                        param.forEach({ (p) in
+                            paramDic[p.0] = p.1
+                        })
+                        paramDic.updateValue(fileDir.path + upload.fileName, forKey: "avatar")
+                        userObj.createUser(with: paramDic, { (isSuccess, mess) in
+                            do {
+                                if isSuccess {
+                                    try res.setBody(json: paramDic).completed()
+                                } else {
+                                    res.setBody(string: mess).completed()
+                                }
+                            } catch {
+                                res.status = .badRequest
+                                res.completed()
+                            }
+                        })
                     } catch {
-                        print(error)
+                        res.status = .badRequest
+                        res.completed()
                     }
                 }
             }

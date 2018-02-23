@@ -421,406 +421,406 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		456921B8203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF32203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "MySQLStORM::MySQLStORM";
 			remoteInfo = MySQLStORM;
 		};
-		456921B9203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF33203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLogger::PerfectLogger";
 			remoteInfo = PerfectLogger;
 		};
-		456921BA203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF34203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		456921BB203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF35203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		456921BC203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF36203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921BD203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF37203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921BE203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF38203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921BF203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF39203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921C0203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3A203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921C1203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3B203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921C2203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3C203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921C3203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3D203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921C4203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3E203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921C5203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF3F203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921C6203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF40203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921C7203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF41203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921C8203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF42203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921C9203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF43203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921CA203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF44203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921CB203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF45203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921CC203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF46203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921CD203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF47203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		456921CE203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF48203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921CF203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF49203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921D0203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4A203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921D1203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4B203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921D2203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4C203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921D3203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4D203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		456921D4203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4E203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		456921D5203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF4F203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921D6203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF50203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921D7203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF51203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921D8203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF52203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921D9203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF53203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "StORM::StORM";
 			remoteInfo = StORM;
 		};
-		456921DA203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF54203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921DB203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF55203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921DC203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF56203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectMySQL::PerfectMySQL";
 			remoteInfo = PerfectMySQL;
 		};
-		456921DD203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF57203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLogger::PerfectLogger";
 			remoteInfo = PerfectLogger;
 		};
-		456921DE203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF58203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		456921DF203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF59203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "StORM::StORM";
 			remoteInfo = StORM;
 		};
-		456921E0203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5A203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectMySQL::PerfectMySQL";
 			remoteInfo = PerfectMySQL;
 		};
-		456921E1203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5B203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectHTTPServer";
 			remoteInfo = PerfectHTTPServer;
 		};
-		456921E2203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5C203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCZlib::PerfectCZlib";
 			remoteInfo = PerfectCZlib;
 		};
-		456921E3203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5D203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		456921E4203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5E203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921E5203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF5F203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921E6203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF60203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921E7203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF61203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921E8203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF62203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921E9203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF63203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectCHTTPParser";
 			remoteInfo = PerfectCHTTPParser;
 		};
-		456921EA203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF64203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCZlib::PerfectCZlib";
 			remoteInfo = PerfectCZlib;
 		};
-		456921EB203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF65203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		456921EC203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF66203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		456921ED203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF67203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		456921EE203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF68203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		456921EF203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF69203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		456921F0203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF6A203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		456921F1203EB1F300C238B6 /* PBXContainerItemProxy */ = {
+		0EBAFF6B203FC02A007E7964 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -838,13 +838,13 @@
 		OBJ_102 /* uncompr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = uncompr.c; sourceTree = "<group>"; };
 		OBJ_103 /* zutil.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = zutil.c; sourceTree = "<group>"; };
 		OBJ_105 /* czlib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = czlib.h; sourceTree = "<group>"; };
-		OBJ_106 /* inftrees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inftrees.h; sourceTree = "<group>"; };
-		OBJ_107 /* zlib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zlib.h; sourceTree = "<group>"; };
-		OBJ_108 /* inflate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inflate.h; sourceTree = "<group>"; };
-		OBJ_109 /* zconf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zconf.h; sourceTree = "<group>"; };
+		OBJ_106 /* inflate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inflate.h; sourceTree = "<group>"; };
+		OBJ_107 /* inftrees.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inftrees.h; sourceTree = "<group>"; };
+		OBJ_108 /* zconf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zconf.h; sourceTree = "<group>"; };
+		OBJ_109 /* zlib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zlib.h; sourceTree = "<group>"; };
 		OBJ_11 /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
-		OBJ_110 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/module.modulemap"; sourceTree = "<group>"; };
-		OBJ_111 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/Package.swift"; sourceTree = "<group>"; };
+		OBJ_110 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_111 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/Package.swift"; sourceTree = "<group>"; };
 		OBJ_114 /* HTTPFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPFilter.swift; sourceTree = "<group>"; };
 		OBJ_115 /* HTTPHeaders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPHeaders.swift; sourceTree = "<group>"; };
 		OBJ_116 /* HTTPMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethod.swift; sourceTree = "<group>"; };
@@ -856,8 +856,8 @@
 		OBJ_121 /* Routing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routing.swift; sourceTree = "<group>"; };
 		OBJ_122 /* StaticFileHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticFileHandler.swift; sourceTree = "<group>"; };
 		OBJ_123 /* TypedRoutes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypedRoutes.swift; sourceTree = "<group>"; };
-		OBJ_124 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Package.swift"; sourceTree = "<group>"; };
-		OBJ_126 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-Net.git-3268755499654502659/Package.swift"; sourceTree = "<group>"; };
+		OBJ_124 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Package.swift"; sourceTree = "<group>"; };
+		OBJ_126 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-Net.git-3268755499654502659/Package.swift"; sourceTree = "<group>"; };
 		OBJ_127 /* Net.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Net.swift; sourceTree = "<group>"; };
 		OBJ_128 /* NetAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetAddress.swift; sourceTree = "<group>"; };
 		OBJ_129 /* NetEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetEvent.swift; sourceTree = "<group>"; };
@@ -873,7 +873,7 @@
 		OBJ_140 /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 		OBJ_141 /* OpenSSLInternal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenSSLInternal.swift; sourceTree = "<group>"; };
 		OBJ_142 /* PerfectCrypto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectCrypto.swift; sourceTree = "<group>"; };
-		OBJ_143 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Package.swift"; sourceTree = "<group>"; };
+		OBJ_143 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Package.swift"; sourceTree = "<group>"; };
 		OBJ_146 /* a_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = a_.c; sourceTree = "<group>"; };
 		OBJ_147 /* aes_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = aes_.c; sourceTree = "<group>"; };
 		OBJ_148 /* ameth_lib.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ameth_lib.c; sourceTree = "<group>"; };
@@ -898,7 +898,7 @@
 		OBJ_167 /* cfb128.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cfb128.c; sourceTree = "<group>"; };
 		OBJ_168 /* cfb64ede.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cfb64ede.c; sourceTree = "<group>"; };
 		OBJ_169 /* cfb64enc.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cfb64enc.c; sourceTree = "<group>"; };
-		OBJ_17 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/MySQL-StORM-7492725482053227634/Package.swift"; sourceTree = "<group>"; };
+		OBJ_17 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/MySQL-StORM-7492725482053227634/Package.swift"; sourceTree = "<group>"; };
 		OBJ_170 /* cfb_enc.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cfb_enc.c; sourceTree = "<group>"; };
 		OBJ_171 /* cm_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cm_.c; sourceTree = "<group>"; };
 		OBJ_172 /* cmac.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cmac.c; sourceTree = "<group>"; };
@@ -1083,7 +1083,7 @@
 		OBJ_337 /* sha256.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sha256.c; sourceTree = "<group>"; };
 		OBJ_338 /* sha512.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sha512.c; sourceTree = "<group>"; };
 		OBJ_339 /* sha_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sha_.c; sourceTree = "<group>"; };
-		OBJ_34 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-Logger.git--429101405906730625/Package.swift"; sourceTree = "<group>"; };
+		OBJ_34 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-Logger.git--429101405906730625/Package.swift"; sourceTree = "<group>"; };
 		OBJ_340 /* srp_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = srp_.c; sourceTree = "<group>"; };
 		OBJ_341 /* ssl_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ssl_.c; sourceTree = "<group>"; };
 		OBJ_342 /* stack.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = stack.c; sourceTree = "<group>"; };
@@ -1104,7 +1104,7 @@
 		OBJ_357 /* tb_store.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = tb_store.c; sourceTree = "<group>"; };
 		OBJ_358 /* th-lock.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "th-lock.c"; sourceTree = "<group>"; };
 		OBJ_359 /* tls_srp.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = tls_srp.c; sourceTree = "<group>"; };
-		OBJ_36 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-CURL.git-8858624468322681619/Package.swift"; sourceTree = "<group>"; };
+		OBJ_36 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-CURL.git-8858624468322681619/Package.swift"; sourceTree = "<group>"; };
 		OBJ_360 /* ts_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ts_.c; sourceTree = "<group>"; };
 		OBJ_361 /* txt_db.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = txt_db.c; sourceTree = "<group>"; };
 		OBJ_362 /* ui_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ui_.c; sourceTree = "<group>"; };
@@ -1126,9 +1126,9 @@
 		OBJ_377 /* xts128.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = xts128.c; sourceTree = "<group>"; };
 		OBJ_379 /* openssl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = openssl.h; sourceTree = "<group>"; };
 		OBJ_38 /* CURLRequestOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLRequestOptions.swift; sourceTree = "<group>"; };
-		OBJ_380 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"; sourceTree = "<group>"; };
-		OBJ_381 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/Package.swift"; sourceTree = "<group>"; };
-		OBJ_383 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-Thread.git-6541237758607105655/Package.swift"; sourceTree = "<group>"; };
+		OBJ_380 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_381 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/Package.swift"; sourceTree = "<group>"; };
+		OBJ_383 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-Thread.git-6541237758607105655/Package.swift"; sourceTree = "<group>"; };
 		OBJ_384 /* Promise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Promise.swift; sourceTree = "<group>"; };
 		OBJ_385 /* ThreadQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadQueue.swift; sourceTree = "<group>"; };
 		OBJ_386 /* Threading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Threading.swift; sourceTree = "<group>"; };
@@ -1143,7 +1143,7 @@
 		OBJ_396 /* SwiftCompatibility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCompatibility.swift; sourceTree = "<group>"; };
 		OBJ_397 /* SysProcess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SysProcess.swift; sourceTree = "<group>"; };
 		OBJ_398 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		OBJ_399 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/PerfectLib.git-3712999737848873669/Package.swift"; sourceTree = "<group>"; };
+		OBJ_399 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/PerfectLib.git-3712999737848873669/Package.swift"; sourceTree = "<group>"; };
 		OBJ_40 /* CURLResponseInfos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLResponseInfos.swift; sourceTree = "<group>"; };
 		OBJ_41 /* cURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cURL.swift; sourceTree = "<group>"; };
 		OBJ_44 /* StORM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORM.swift; sourceTree = "<group>"; };
@@ -1157,13 +1157,13 @@
 		OBJ_52 /* StORMProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMProtocol.swift; sourceTree = "<group>"; };
 		OBJ_53 /* StORMRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMRow.swift; sourceTree = "<group>"; };
 		OBJ_54 /* StORMtResultSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMtResultSet.swift; sourceTree = "<group>"; };
-		OBJ_55 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/StORM.git-6077292811663054913/Package.swift"; sourceTree = "<group>"; };
-		OBJ_57 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Package.swift"; sourceTree = "<group>"; };
+		OBJ_55 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/StORM.git-6077292811663054913/Package.swift"; sourceTree = "<group>"; };
+		OBJ_57 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Package.swift"; sourceTree = "<group>"; };
 		OBJ_58 /* PerfectMySQL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectMySQL.swift; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		OBJ_61 /* http_parser.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = http_parser.c; sourceTree = "<group>"; };
 		OBJ_63 /* http_parser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = http_parser.h; sourceTree = "<group>"; };
-		OBJ_64 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_64 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"; sourceTree = "<group>"; };
 		OBJ_67 /* HTTP11Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP11Request.swift; sourceTree = "<group>"; };
 		OBJ_68 /* HTTP11Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP11Response.swift; sourceTree = "<group>"; };
 		OBJ_70 /* HPACK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HPACK.swift; sourceTree = "<group>"; };
@@ -1183,7 +1183,7 @@
 		OBJ_83 /* HTTPServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServer.swift; sourceTree = "<group>"; };
 		OBJ_84 /* HTTPServerEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServerEx.swift; sourceTree = "<group>"; };
 		OBJ_85 /* HTTPServerExConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServerExConfig.swift; sourceTree = "<group>"; };
-		OBJ_86 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/hoanghung/Private/PerfectSwift-Git/PerfectDatabase/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Package.swift"; sourceTree = "<group>"; };
+		OBJ_86 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/HungNguyen/PerfectSwift/PerfectSwift/PerfectDatabase/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Package.swift"; sourceTree = "<group>"; };
 		OBJ_89 /* adler32.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = adler32.c; sourceTree = "<group>"; };
 		OBJ_9 /* MySQLFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySQLFile.swift; sourceTree = "<group>"; };
 		OBJ_90 /* compress.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = compress.c; sourceTree = "<group>"; };
@@ -1382,10 +1382,10 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_105 /* czlib.h */,
-				OBJ_106 /* inftrees.h */,
-				OBJ_107 /* zlib.h */,
-				OBJ_108 /* inflate.h */,
-				OBJ_109 /* zconf.h */,
+				OBJ_106 /* inflate.h */,
+				OBJ_107 /* inftrees.h */,
+				OBJ_108 /* zconf.h */,
+				OBJ_109 /* zlib.h */,
 				OBJ_110 /* module.modulemap */,
 			);
 			path = include;
@@ -3139,292 +3139,292 @@
 		OBJ_525 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "MySQLStORM::MySQLStORM" /* MySQLStORM */;
-			targetProxy = 456921B8203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF32203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_527 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLogger::PerfectLogger" /* PerfectLogger */;
-			targetProxy = 456921DD203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF57203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_529 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 456921DE203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF58203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_531 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "StORM::StORM" /* StORM */;
-			targetProxy = 456921DF203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF59203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_533 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectMySQL::PerfectMySQL" /* PerfectMySQL */;
-			targetProxy = 456921E0203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5A203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_535 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectHTTPServer" /* PerfectHTTPServer */;
-			targetProxy = 456921E1203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5B203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_537 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCZlib::PerfectCZlib" /* PerfectCZlib */;
-			targetProxy = 456921EA203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF64203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_539 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 456921EB203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF65203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_541 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921EC203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF66203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_543 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921ED203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF67203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_545 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921EE203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF68203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_547 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921EF203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF69203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_549 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921F0203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF6A203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_551 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectCHTTPParser" /* PerfectCHTTPParser */;
-			targetProxy = 456921F1203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF6B203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_580 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLogger::PerfectLogger" /* PerfectLogger */;
-			targetProxy = 456921B9203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF33203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_581 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 456921D3203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4D203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_582 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 456921D4203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4E203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_583 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921D5203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4F203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_584 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921D6203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF50203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_585 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921D7203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF51203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_586 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921D8203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF52203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_587 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "StORM::StORM" /* StORM */;
-			targetProxy = 456921D9203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF53203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_588 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921DB203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF55203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_589 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectMySQL::PerfectMySQL" /* PerfectMySQL */;
-			targetProxy = 456921DC203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF56203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_604 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 456921BA203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF34203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_605 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 456921CD203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF47203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_606 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921CE203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF48203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_607 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921CF203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF49203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_608 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921D0203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4A203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_609 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921D1203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4B203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_610 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921D2203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF4C203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_627 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 456921BB203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF35203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_628 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921C8203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF42203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_629 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921C9203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF43203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_630 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921CA203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF44203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_631 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921CB203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF45203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_632 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921CC203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF46203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_650 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921DA203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF54203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_688 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCZlib::PerfectCZlib" /* PerfectCZlib */;
-			targetProxy = 456921E2203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5C203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_689 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 456921E3203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5D203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_690 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921E4203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5E203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_691 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921E5203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF5F203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_692 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921E6203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF60203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_693 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921E7203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF61203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_694 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921E8203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF62203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_695 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectCHTTPParser" /* PerfectCHTTPParser */;
-			targetProxy = 456921E9203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF63203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_736 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 456921BC203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF36203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_737 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921C4203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3E203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_738 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921C5203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3F203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_739 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921C6203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF40203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_740 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921C7203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF41203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_757 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 456921BD203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF37203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_758 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921C1203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3B203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_759 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921C2203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3C203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_760 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921C3203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3D203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_776 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 456921BE203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF38203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_777 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 456921BF203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF39203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 		OBJ_778 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 456921C0203EB1F300C238B6 /* PBXContainerItemProxy */;
+			targetProxy = 0EBAFF3A203FC02A007E7964 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -3613,7 +3613,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3622,7 +3622,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3631,7 +3631,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3640,7 +3640,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3649,7 +3649,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3658,7 +3658,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3667,7 +3667,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3676,7 +3676,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3685,7 +3685,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3694,7 +3694,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3703,7 +3703,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3712,7 +3712,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3721,7 +3721,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -3730,7 +3730,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
@@ -3739,7 +3739,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -3748,7 +3748,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
@@ -3757,7 +3757,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -3766,7 +3766,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
@@ -3775,7 +3775,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3784,7 +3784,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3793,7 +3793,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -3802,7 +3802,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 4 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/4 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
@@ -3811,7 +3811,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3820,7 +3820,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3829,7 +3829,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3838,7 +3838,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3847,7 +3847,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -3856,7 +3856,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
-				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Users/hoanghung/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
+				OTHER_SWIFT_FLAGS = "-swift-version 3 -I /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/pm/3 -target x86_64-apple-macosx10.10 -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -3880,7 +3880,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx @executable_path";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
-					"-lcurl",
 					"-L/usr/local/Cellar/mysql/5.7.21/lib",
 					"-lmysqlclient",
 				);
@@ -3911,7 +3910,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx @executable_path";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
-					"-lcurl",
 					"-L/usr/local/Cellar/mysql/5.7.21/lib",
 					"-lmysqlclient",
 				);
@@ -3941,7 +3939,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
-					"-lcurl",
 					"-L/usr/local/Cellar/mysql/5.7.21/lib",
 					"-lmysqlclient",
 				);
@@ -3973,7 +3970,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
-					"-lcurl",
 					"-L/usr/local/Cellar/mysql/5.7.21/lib",
 					"-lmysqlclient",
 				);
@@ -4002,10 +3998,7 @@
 				);
 				INFOPLIST_FILE = PerfectDatabase.xcodeproj/PerfectLogger_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-lcurl",
-				);
+				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectLogger;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -4031,10 +4024,7 @@
 				);
 				INFOPLIST_FILE = PerfectDatabase.xcodeproj/PerfectLogger_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-lcurl",
-				);
+				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectLogger;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -4060,10 +4050,7 @@
 				);
 				INFOPLIST_FILE = PerfectDatabase.xcodeproj/PerfectCURL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-lcurl",
-				);
+				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCURL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -4089,10 +4076,7 @@
 				);
 				INFOPLIST_FILE = PerfectDatabase.xcodeproj/PerfectCURL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-lcurl",
-				);
+				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCURL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";

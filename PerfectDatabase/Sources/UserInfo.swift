@@ -51,19 +51,30 @@ public class User: MySQLStORM {
     // The mapping that translates the database info back to the object
     // This is where you would do any validation or transformation as needed
     public override func to(_ this: StORMRow) {
-        id              = this.data["id"] as? Int ?? 0
+        let idTmp       = this.data["id"] as? Int32 ?? 0
+        id              = Int(idTmp)
         name            = this.data["name"] as? String ?? ""
         phone           = this.data["phone"] as? String ?? ""
         email           = this.data["email"] as? String ?? ""
         avatar          = this.data["avatar"] as? String ?? ""
     }
     
+    func getJSONValues() -> [String: Any] {
+        return [
+            "id":id,
+            "name": name,
+            "phone": phone,
+            "email": email,
+            "avatar": avatar
+        ]
+    }
+    
     // Create user profile and insert to dbs
     func createUser(with value: [String: Any],_ completion: ((_ isSuccess: Bool, _ mess: String)->())) {
-        print(value["phone"] as? String ?? "nothing")
         name = value["name"] as? String ?? ""
         phone = value["phone"] as? String ?? ""
         email = value["email"] as? String ?? ""
+        avatar = value["avatar"] as? String ?? ""
         
         do {
             try self.create()

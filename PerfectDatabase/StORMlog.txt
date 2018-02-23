@@ -33,3 +33,33 @@
 [INFO] [5eacb963-7973-4acc-81fd-bc5d62d09eea] [2018-02-22 09:56:09 GMT+07:00] Running setup: UserProfile
 [INFO] [a3183639-8dde-4010-a5e8-f6a59bd5c120] [2018-02-22 09:57:39 GMT+07:00] Running setup: UserProfile
 [INFO] [c36957f2-e524-49dd-80d5-f22e73866c5f] [2018-02-22 09:58:53 GMT+07:00] Running setup: UserProfile
+[INFO] [2d7599f1-e020-45b1-bb82-ffaa03ecfee3] [2018-02-23 10:31:15 GMT+07:00] Running setup: UserProfile
+[ERROR] [a3c8eb46-6c56-4b0e-9d28-1caf07f60c5f] [2018-02-23 10:31:15 GMT+07:00] MySQL connection error: Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [469e0aa0-aa4d-4a83-9a1e-c38d28fb8495] [2018-02-23 10:31:15 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [1e865c99-710e-4db8-80da-01ec0771ba38] [2018-02-23 10:31:15 GMT+07:00] Error msg: error("MySQL server has gone away")
+[INFO] [f2dace7b-bbb3-45c7-aaa3-1afeef5a7082] [2018-02-23 10:31:36 GMT+07:00] Running setup: UserProfile
+[ERROR] [e53384d1-3a5f-4269-bea2-12b2a488c462] [2018-02-23 10:31:36 GMT+07:00] MySQL connection error: Access denied for user 'root'@'localhost'@'localhost' (using password: YES)
+[ERROR] [c27481e9-0ba0-44ec-b646-f0afa1f7b9db] [2018-02-23 10:31:36 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [2dadbb0f-2f21-4777-bd1b-c0a1176b3f67] [2018-02-23 10:31:36 GMT+07:00] Error msg: error("MySQL server has gone away")
+[INFO] [98fe6c40-5c0d-469d-81a1-30e5b6fba6f1] [2018-02-23 10:31:55 GMT+07:00] Running setup: UserProfile
+[ERROR] [48fb5034-2176-47f9-bb0e-33b2f69d4299] [2018-02-23 10:31:55 GMT+07:00] MySQL connection error: Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [f0407982-6970-4b42-a136-dfba1a904c13] [2018-02-23 10:31:55 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [117e8f1d-d610-427c-b90b-9717faefb3ee] [2018-02-23 10:31:55 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [ed0682f1-3236-4b14-b419-12f17e137517] [2018-02-23 10:33:06 GMT+07:00] MySQL connection error: Access denied for user 'root'@'localhost' (using password: YES)
+[ERROR] [03246e54-c42c-4b52-a827-5bb326312a8a] [2018-02-23 10:33:06 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [a6f165bd-91f7-4220-afbe-5d07f05ea7cf] [2018-02-23 10:33:06 GMT+07:00] Error msg: error("MySQL server has gone away")
+[ERROR] [e590ab70-b39f-4946-b95c-a3e901081b31] [2018-02-23 10:33:06 GMT+07:00] Error msg: error("error(\"MySQL server has gone away\")")
+[ERROR] [d179aa4c-fb00-44c6-9f41-36f40389404c] [2018-02-23 10:33:06 GMT+07:00] Error msg: error("error(\"error(\\\"MySQL server has gone away\\\")\")")
+[INFO] [d0b1e4e1-9217-425a-84a7-b86b1d11a861] [2018-02-23 10:42:42 GMT+07:00] Running setup: UserProfile
+[INFO] [1a0c2dd7-0f11-4380-a77b-63ffcd90d7c5] [2018-02-23 10:51:21 GMT+07:00] Running setup: UserProfile
+[INFO] [d0c4d4f6-d01d-454e-b62b-f3645c77f23d] [2018-02-23 10:51:38 GMT+07:00] Running setup: UserProfile
+[INFO] [c4f31316-f96e-450c-ad4f-25336f051121] [2018-02-23 10:51:55 GMT+07:00] Running setup: UserProfile
+[INFO] [ae4e527e-772c-417b-bad7-9c6b13fdbe68] [2018-02-23 10:52:12 GMT+07:00] Running setup: UserProfile
+[INFO] [c1eee36b-1e75-4c38-a938-986fa7ddbdb8] [2018-02-23 10:52:45 GMT+07:00] Running setup: UserProfile
+[INFO] [1e60dde1-032a-4c3d-beb5-7e6bdec77e3e] [2018-02-23 10:55:29 GMT+07:00] Running setup: UserProfile
+[INFO] [b593727a-35cd-44d2-99c8-ded27e2ec5e6] [2018-02-23 10:55:55 GMT+07:00] Running setup: UserProfile
+[INFO] [78974cba-d2eb-4c44-9837-8878b961eab2] [2018-02-23 10:56:32 GMT+07:00] Running setup: UserProfile
+[INFO] [a6b7f2dd-9a69-4f6c-940f-55529dcef7ab] [2018-02-23 10:56:51 GMT+07:00] Running setup: UserProfile
+[INFO] [de45516b-b3fd-489b-b892-cef30f2779d6] [2018-02-23 11:22:24 GMT+07:00] Running setup: UserProfile
+[INFO] [2b9fa3d3-9379-468b-8d1f-570d82f46a7e] [2018-02-23 11:35:33 GMT+07:00] Running setup: UserProfile
+[INFO] [880fd4c2-7968-47d3-8f6c-c32e4b84db65] [2018-02-23 11:45:34 GMT+07:00] Running setup: UserProfile
