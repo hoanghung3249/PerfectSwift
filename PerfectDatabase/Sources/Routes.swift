@@ -46,6 +46,7 @@ struct Router {
         }
         
         routes.add(method: .get, uri: "getUsers") { (req, res) in
+            let jsonResponse = JSONResponse()
             do {
                 var arrUser = [User]()
                 let objUser = User()
@@ -54,10 +55,17 @@ struct Router {
                 arrUser.forEach({ (user) in
                     userDic.append(user.getJSONValues())
                 })
-                let jsonRes = ["users": userDic]
-                try res.setBody(json: jsonRes).completed()
+                jsonResponse.status_code = 200
+                jsonResponse.status = "success"
+                jsonResponse.message = "Get User Success"
+                jsonResponse.data = userDic
+                try res.setBody(json: jsonResponse.getJSONValues()).completed()
             } catch {
+                jsonResponse.status_code = 406
+                jsonResponse.status = "failure"
+                jsonResponse.data = [String: Any]()
                 res.status = .badRequest
+                try! res.setBody(json: jsonResponse.getJSONValues())
                 res.completed()
             }
         }

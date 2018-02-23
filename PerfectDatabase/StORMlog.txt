@@ -63,3 +63,5 @@
 [INFO] [de45516b-b3fd-489b-b892-cef30f2779d6] [2018-02-23 11:22:24 GMT+07:00] Running setup: UserProfile
 [INFO] [2b9fa3d3-9379-468b-8d1f-570d82f46a7e] [2018-02-23 11:35:33 GMT+07:00] Running setup: UserProfile
 [INFO] [880fd4c2-7968-47d3-8f6c-c32e4b84db65] [2018-02-23 11:45:34 GMT+07:00] Running setup: UserProfile
+[INFO] [d15d1808-59cf-455d-ba3c-fd84832eae08] [2018-02-23 14:13:52 GMT+07:00] Running setup: UserProfile
+[INFO] [3ada4c38-7d11-4ecc-b741-bbbab5129d61] [2018-02-23 17:21:15 GMT+07:00] Running setup: UserProfile

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EBAFF6D20401C10007E7964 /* JSONResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBAFF6C20401C10007E7964 /* JSONResponse.swift */; };
+		0EBAFF6E20401C10007E7964 /* JSONResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EBAFF6C20401C10007E7964 /* JSONResponse.swift */; };
 		OBJ_1000 /* uid.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_363 /* uid.c */; };
 		OBJ_1001 /* v3_.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_364 /* v3_.c */; };
 		OBJ_1002 /* v3_lib.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_365 /* v3_lib.c */; };
@@ -830,6 +832,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EBAFF6C20401C10007E7964 /* JSONResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONResponse.swift; sourceTree = "<group>"; };
 		"COpenSSL::COpenSSL::Product" /* COpenSSL.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = COpenSSL.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"MySQLStORM::MySQLStORM::Product" /* MySQLStORM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MySQLStORM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		OBJ_10 /* Routes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routes.swift; sourceTree = "<group>"; };
@@ -1989,6 +1992,7 @@
 				OBJ_10 /* Routes.swift */,
 				OBJ_11 /* UserInfo.swift */,
 				OBJ_12 /* main.swift */,
+				0EBAFF6C20401C10007E7964 /* JSONResponse.swift */,
 			);
 			path = Sources;
 			sourceTree = SOURCE_ROOT;
@@ -2616,6 +2620,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				0EBAFF6D20401C10007E7964 /* JSONResponse.swift in Sources */,
 				OBJ_421 /* Package.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2728,6 +2733,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				0EBAFF6E20401C10007E7964 /* JSONResponse.swift in Sources */,
 				OBJ_505 /* Extensions.swift in Sources */,
 				OBJ_506 /* MySQLFile.swift in Sources */,
 				OBJ_507 /* Routes.swift in Sources */,
